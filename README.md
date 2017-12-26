@@ -5,6 +5,7 @@ Program to solve the eight puzzle game.
 
 
 /******************************************************************************************
+
 Disclaimer: credit goes to the creator of the main program, Gabriel Ferrer.
 https://github.com/gferrer/8-Puzzle-Solver
 
